@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?totaltestVersion 20.10.3.v20220524-1628_164?>
+<!--Topaz for Total Test 20.10.3.v20220524-1628_164 17-Jul-2023, 12:48:57 PM-->
+<testExecutions version="1">
+  <file path="C:\Users\sandhata\Compuware\Workbench\workspace\PGM02C_DOC\Tests\Scenarios\PGM02C_Scenario.testscenario">
+    <testCase duration="0" name="PGM02C_DOC.PGM02C_Scenario.00001: PGM02CCase1.00001: Check for RETURN_CODE"/>
+  </file>
+  <file path="C:\Users\sandhata\Compuware\Workbench\workspace\PGM02C_DOC\Tests\Stubs\PGM02C_PGM02D_01.stub">
+    <testCase duration="0" name="PGM02C_DOC.PGM02C_Scenario.00001: PGM02CCase1.PGM02C_PGM02D_01.00001: PGM02D assertion.00001: Check for WS_X"/>
+    <testCase duration="0" name="PGM02C_DOC.PGM02C_Scenario.00001: PGM02CCase1.PGM02C_PGM02D_01.00001: PGM02D assertion.00002: Check for WS_Y"/>
+    <testCase duration="0" name="PGM02C_DOC.PGM02C_Scenario.00001: PGM02CCase1.PGM02C_PGM02D_01.00001: PGM02D assertion.00003: Check for WS_Z"/>
+    <testCase duration="0" name="PGM02C_DOC.PGM02C_Scenario.00001: PGM02CCase1.PGM02C_PGM02D_01.00001: PGM02D assertion.00004: Check for WS_FLG"/>
+  </file>
+</testExecutions>

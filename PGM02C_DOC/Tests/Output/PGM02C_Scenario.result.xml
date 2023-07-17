@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result:DocumentRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:result="http://www.compuware.com/model/xml/result">
+<?totaltestVersion 20.10.3.v20220524-1628_164?><!--Topaz for Total Test 20.10.3.v20220524-1628_164 17-Jul-2023, 12:48:57 PM-->  <result>
+    <testsuiteResult errorCount="0" failureCount="0" testCount="5">
+      <testscenarioResults errorCount="0" failureCount="0" testCount="5">
+        <testcaseResults errorCount="0" failureCount="0" testCount="5">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <stubAssertion errorCount="0" failureCount="0" testCount="4">
+            <stubdataassertions testCount="4">
+              <results actualValue="30" expectedValue="30" name="Check for WS_X" result="Success"/>
+              <results actualValue="60" expectedValue="60" name="Check for WS_Y" result="Success"/>
+              <results actualValue="90" expectedValue="90" name="Check for WS_Z" result="Success"/>
+              <results actualValue="" expectedValue="" name="Check for WS_FLG" result="Success"/>
+              <stubdata href="PGM02C_Scenario.archive#Tests/Stubs/PGM02C_PGM02D_01.stub.Tests/Stubs/PGM02C_PGM02D_01.stub.0"/>
+            </stubdataassertions>
+            <stub href="PGM02C_Scenario.archive#Tests/Stubs/PGM02C_PGM02D_01.stub"/>
+          </stubAssertion>
+          <testcase href="PGM02C_Scenario.archive#Tests/Scenarios/PGM02C_Scenario.testscenario%23PGM02CCase1"/>
+        </testcaseResults>
+        <testscenario href="PGM02C_Scenario.archive#Tests/Scenarios/PGM02C_Scenario.testscenario"/>
+      </testscenarioResults>
+      <testsuite href="PGM02C_Scenario.archive#Tests%5C.temp%5CPGM02C_Scenario.testsuite"/>
+    </testsuiteResult>
+  </result>
+</result:DocumentRoot>
